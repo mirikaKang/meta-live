@@ -5,5 +5,5 @@ is suitable for development work."
 
 
 
-IMAGE_INSTALL +="libanswer libanswer-exmaple"
+IMAGE_INSTALL +="libanswer libanswer-example"
 IMAGE_FEATURES +="ssh-server-dropbear"
